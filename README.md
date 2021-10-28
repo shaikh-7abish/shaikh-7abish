@@ -1,8 +1,8 @@
 <h1>Hi there, <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="75px"></h1>
 
-- 😊 I’m Md Tabish Shaikh
-- 👀 I’m interested in Fornt End Web Developing
-- 📚 Currently, I’m learning CSS
+- 😊 I’m `Md Tabish Shaikh`
+- 👀 I’m interested in `Fornt End Web Developing`
+- 📚 Currently, I’m learning `CSS`
 - 📧 Don’t hesistate to mail me at tabishshaikh764@gmail.com
 
 
