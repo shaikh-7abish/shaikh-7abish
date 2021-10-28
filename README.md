@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @shaikh_7abish
+<h1>Hi there, <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="75px"></h1>
+
+- 😊 I’m Md Tabish Shaikh
 - 👀 I’m interested in Fornt End Web Developing
 - 🌱 I’m currently learning CSS
-- 📫 How to reach me tabishshaikh764@gmail.com
+- 📫 Don’t hesistate to mail me at tabishshaikh764@gmail.com
 
 
 
