@@ -2,8 +2,8 @@
 
 - 😊 I’m Md Tabish Shaikh
 - 👀 I’m interested in Fornt End Web Developing
-- 🌱 I’m currently learning CSS
-- 📫 Don’t hesistate to mail me at tabishshaikh764@gmail.com
+- 📚 Currently, I’m learning CSS
+- 📧 Don’t hesistate to mail me at tabishshaikh764@gmail.com
 
 
 
