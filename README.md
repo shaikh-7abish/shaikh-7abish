@@ -1,4 +1,4 @@
-<h1>Hi there, <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="75px"></h1>
+<h1>Hi there, <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="55px"></h1>
 
 - 😊 I’m <strong>Md Tabish Shaikh</strong>
 - 👀 I’m interested in <strong>Fornt End Web Developing</strong>
