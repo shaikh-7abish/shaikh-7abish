@@ -2,7 +2,7 @@
 
 - 😊 I’m <strong>Md Tabish Shaikh</strong>
 - 👀 I’m interested in <strong>Fornt End Web Developing</strong>
-- 📚 Currently, I’m learning <strong>JAVASCRIPT</strong>
+- 📚 Currently, I’m learning <strong>PYTHON</strong>
 
 
 
