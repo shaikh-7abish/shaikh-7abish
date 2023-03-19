@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/md-tabish-shaikh-408a50227/" target="_blank">
 <img src="https://media3.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif?cid=ecf05e47x195qkjaoh4898lr3dsol8rnj3j12khpl0sdkphn&rid=giphy.gif&ct=s" width="36px"></a>
 <a href="https://www.instagram.com/maybe7abish/" target="_blank">
-<img src="https://media2.giphy.com/media/IbTZSfHDUDSmOCkd3q/giphy.gif?cid=ecf05e47dp0e3erzybo2ox1sv8uonarrlp0vxkkmsnqv51ht&rid=giphy.gif&ct=s"width="36px" </a>
+<img src="https://media2.giphy.com/media/WyZy1cltG36Y04OCLG/giphy_s.gif?cid=ecf05e47pr5rx6yt7v3k4qx16wubynjqd33brnmk04t7xwhb&rid=giphy_s.gif&ct=s" width="36px" </a>
 
 
 <!--
