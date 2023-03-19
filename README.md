@@ -1,18 +1,27 @@
 <h4>Hi there, <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="55px"></h4>
 
 <hr>
-- 😊 I’m <strong>Md Tabish Shaikh.</strong>
-- 👀 I’m interested in <strong>Data Science and Machine Learning.</strong>
-- 📚 Currently, I’m student of <strong>Artificial Intellignece and Data Science.</strong>
-- 🐱‍💻 Always trying to **learn.**
+<div>
+  - 😊 I’m <strong>Md Tabish Shaikh.</strong>
+</div>
+<div>
+  - 👀 I’m interested in <strong>Data Science and Machine Learning.</strong>
+</div>
+<div>
+  - 📚 Currently, I’m student of <strong>Artificial Intellignece and Data Science.</strong>
+</div>
+<div>
+  - 🐱‍💻 Always trying to learn.
+</div>
+
 <hr>
 <a href="https://www.linkedin.com/in/md-tabish-shaikh-408a50227/" target="_blank">
-<img src="https://media3.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif?cid=ecf05e47x195qkjaoh4898lr3dsol8rnj3j12khpl0sdkphn&rid=giphy.gif&ct=s" width="36px"></a>
+<img src="https://static.licdn.com/sc/h/5bukxbhy9xsil5mb7c2wulfbx" width="36px"></a>
 <a href="https://www.instagram.com/maybe7abish/" target="_blank">
-<img src="https://media2.giphy.com/media/WyZy1cltG36Y04OCLG/giphy_s.gif?cid=ecf05e47pr5rx6yt7v3k4qx16wubynjqd33brnmk04t7xwhb&rid=giphy_s.gif&ct=s" width="36px" </a>
-<a href="discordapp.com/users/maybe7abish#4857">
-<img src="https://media1.giphy.com/media/G9iNGjpV4sD4O6o778/giphy_s.gif?cid=ecf05e47fufqjda3pfcorovqd0qcjfuzuacs5rlbqkof9bt7&rid=giphy_s.gif&ct=s" width="36px"></a>
-  
+<img src="https://static.cdninstagram.com/rsrc.php/v3/yb/r/lswP1OF1o6P.png" width="36px" </a>
+<a href="https://github.com/shaikh-7abish">
+<img src="https://github.githubassets.com/pinned-octocat.svg" width="36px"></a>
+
 
 <!--
 <p>
