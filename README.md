@@ -1,5 +1,6 @@
 <h4>Hi there, <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="55px"></h4>
 
+<hr>
 - 😊 I’m <strong>Md Tabish Shaikh.</strong>
 - 👀 I’m interested in <strong>Data Science and Machine Learning.</strong>
 - 📚 Currently, I’m student of <strong>Artificial Intellignece and Data Science.</strong>
