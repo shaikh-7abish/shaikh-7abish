@@ -4,6 +4,7 @@
 - 👀 I’m interested in <strong>Data Science and Machine Learning.</strong>
 - 📚 Currently, I’m student of <strong>Artificial Intellignece and Data Science.</strong>
 - 🐱‍💻 Always trying to **learn.**
+<hr>
 <a href="https://www.linkedin.com/in/md-tabish-shaikh-408a50227/" target="_blank">
 <img src="https://media3.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif?cid=ecf05e47x195qkjaoh4898lr3dsol8rnj3j12khpl0sdkphn&rid=giphy.gif&ct=s" width="36px"></a>
 <a href="https://www.instagram.com/maybe7abish/" target="_blank">
