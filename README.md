@@ -1,4 +1,4 @@
-<h4>Hi there, <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="55px"></h4>
+<h4>Hi there, <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="36px"></h4>
 
 <hr>
 <div>
