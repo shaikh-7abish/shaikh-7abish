@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/md-tabish-shaikh-408a50227/" target="_blank">
 <img src="https://static.licdn.com/sc/h/3loy7tajf3n0cho89wgg0fjre" height="36px" width="36px"></a>
 <a href="https://www.instagram.com/maybe7abish/" target="_blank">
-<img src="https://static.cdninstagram.com/rsrc.php/v3/yb/r/lswP1OF1o6P.png" width="36px" </a>
+<img src="https://static.cdninstagram.com/rsrc.php/v3/yb/r/lswP1OF1o6P.png" height="36px" width="36px" </a>
 <!--<a href="https://github.com/shaikh-7abish">
 <img src="https://github.githubassets.com/pinned-octocat.svg" width="36px"></a>-->
 
