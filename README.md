@@ -1,8 +1,6 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="40px">, I'm MD TABISH SHAIKH</h1>
+<h3 align="center">Hi <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="40px">, I'm Md TABISH SHAIKH</h3>
 <h5 align="center">
-👀 I’m interested in Data Science and Machine Learning.<br>
-📚 Currently, I’m student of Artificial Intelligence and Data Science.<br>
-🐱‍💻 Always trying to learn.
+Data Science Enthusiast | Experienced in Python, Deep Learning, and Data Analysis | Ready to Drive Business Impact
 </h5>
 
 <hr>
