@@ -1,5 +1,5 @@
 <h3 align="center">Hi <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="40px"></h3>
-<h3 align="center">myself TABISH SHAIKH</h3>
+<h3 align="center">I'm MD TABISH SHAIKH</h3>
 <h5>Artificial Intelligence and Data Science Developer, specializing in data science and deep learning. With 8 months of Experience as a Data Science Intern and Machine Learning Intern. Whether you're aiming to build predictive models, uncover data-driven insights, or enhance your data strategy, developing machine learning models, or implementing AI solutions, I can help."
 </h5>
 
